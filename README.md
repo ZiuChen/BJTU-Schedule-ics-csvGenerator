@@ -4,7 +4,7 @@
 
 ### 脚本功能：
 
-* 在课程表页面增加了"日历"、"导出为ics文件"、"导出为csv文件"三个按钮。
+* 在Win/Android/IOS日历中登录Outlook邮箱导入课表，导入一次，多端同步！
 * 一键将课表导出为.ics文件，支持多端同步，与各系统原生日历应用完美结合。
 * 一键将课表导出为.csv文件，可以在Excel中编辑。 
 
@@ -14,7 +14,7 @@
 
 ### 使用方法：
 
-[北交大iCalender课表生成使用指南](https://shimo.im/docs/CkWpdVYhVxYQ6yW9)
+[北交大iCalender课表生成使用指南](https://www.cnblogs.com/ziuc/articles/15152630.html)
 
 ### 注意事项：
 
