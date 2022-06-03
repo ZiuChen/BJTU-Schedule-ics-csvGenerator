@@ -7,10 +7,11 @@
 * 在Win/Android/IOS日历中登录Outlook邮箱导入课表，导入一次，多端同步！
 * 一键将课表导出为.ics文件，支持多端同步，与各系统原生日历应用完美结合。
 * 一键将课表导出为.csv文件，可以在Excel中编辑。 
+* 一键将课表导出为.json文件，可以导入第三方软件。 
 
 ### 使用效果：
 
-![](https://gitee.com/ziuc/utool-filebed/raw/master//20210817-022711-0076.jpeg)
+![](./image.png)
 
 ### 使用方法：
 
