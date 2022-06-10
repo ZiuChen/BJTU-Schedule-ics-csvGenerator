@@ -1,3 +1,7 @@
+# 脚本已迁移至新仓库: [ZiuChen/userscript](https://github.com/ZiuChen/userscript/tree/main/src/BJTU-Schedule-ics-csvGenerator), 请前往新仓库提交issue
+
+****
+
 ## 北交大iCalender课表生成
 
 点击访问本脚本的[Github项目](https://github.com/ZiuChen/BJTU-Schedule-ics-csvGenerator)，后续更新将在本页面与Github共同发布。
